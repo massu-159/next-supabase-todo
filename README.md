@@ -1,3 +1,7 @@
+----
+![スクリーンショット 2023-06-18 16 43 28](https://github.com/massu-159/next-supabase-todo/assets/75517054/37f7a25c-66cf-42e0-8197-b75defb023d5)
+
+----
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
